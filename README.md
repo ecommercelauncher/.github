@@ -1,1 +1,3 @@
-# .github
+- 🚀 Ecommerce Launcher is your go-to place for learning how to build an online store and grow your ecommerce business.
+- 🔥 We bring you actionable advice and step-by-step guides for building, running, and growing online businesses from scratch.
+- 📫 Learn more at https://ecommercelauncher.com/
